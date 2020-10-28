@@ -5,8 +5,11 @@ This program fixes that issue in a process that takes around 20 seconds.
 When running the program, the user is asked to input the name, number of questions and available answers to their assignment.
 
 So for example, lets say a teacher is making an answer key for a test:
+
   Name: Chemistry Test 4
+  
   Number of questions: 70
+  
   Available answers: A, B, C, D
   
 The teacher would run the program and tell it the previously mentioned information.  
