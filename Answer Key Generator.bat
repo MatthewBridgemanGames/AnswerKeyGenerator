@@ -1,6 +1,6 @@
 ::Copyright Matthew Bridgeman 2020
 ::This code is completely open-source meaning that it is completely free and anybody may modify their version as they see fit.
-::However, selling this code or any modified version of it is illegal.
+::However, selling this code or any lightly modified version of it is illegal.
 
 @echo off
 setlocal EnableDelayedExpansion
